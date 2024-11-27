@@ -1,7 +1,7 @@
     import java.util.Scanner ;
     public class Calculator {
-static float addition(float[] value)
-{
+ static float addition(float[] value)
+ {
 	float add=value[0];
 	for(int i=0;i<(value.length-1);i++)
 	{
