@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Computer Science and Business Systems gradua
 
 ## 🔐 About Me
 
-- 🎓 Graduated in Computer Science and Business Systems  
+- 🎓 Pursuing in Computer Science and Business Systems  
 - 🛡️ Passionate about Ethical Hacking & Cybersecurity  
 - 🧠 Currently expanding knowledge in Information Security & FCP Certifications  
 - 🛠️ Worked on a college project titled **Landslide Rescue** – from idea to execution  
@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a Computer Science and Business Systems gradua
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 🔗 LinkedIn: www.linkedin.com/in/dharshini-rajendran-
 - 📧 Email: your.email@example.com  
 - 💼 Portfolio: [yourportfolio.com](https://yourportfolio.com) *(if available)*
 
