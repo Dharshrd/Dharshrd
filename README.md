@@ -42,8 +42,8 @@ Welcome to my GitHub profile! I'm a Computer Science and Business Systems gradua
 ## 📫 Let's Connect
 
 - 🔗 LinkedIn: www.linkedin.com/in/dharshini-rajendran-
-- 📧 Email: your.email@example.com  
-- 💼 Portfolio: [yourportfolio.com](https://yourportfolio.com) *(if available)*
+- 📧 Email: dharshinird17@gmail.com
+
 
 ---
 
